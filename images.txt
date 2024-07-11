@@ -1,3 +1,5 @@
 onlyoffice/documentserver:latest
 zhaojun1998/zfile
 whyour/qinglong
+jgraph/drawio
+shuiche/mind-map
