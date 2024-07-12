@@ -4,3 +4,4 @@ whyour/qinglong
 jgraph/drawio
 shuiche/mind-map
 shtse8/photopea:1.0
+deluan/navidrome
