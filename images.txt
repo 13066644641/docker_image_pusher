@@ -6,4 +6,4 @@ shuiche/mind-map
 shtse8/photopea:1.0
 deluan/navidrome
 panda62/music-tag-web
-k1483162508/musicn:1.5.0
+k1483162508/musicn
