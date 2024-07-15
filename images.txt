@@ -5,5 +5,5 @@ jgraph/drawio
 shuiche/mind-map
 shtse8/photopea:1.0
 deluan/navidrome
-panda62/music-tag-web
+xhongc/music_tag_web
 k1483162508/musicn
