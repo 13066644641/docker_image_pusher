@@ -8,4 +8,5 @@
 #xhongc/music_tag_web
 #k1483162508/musicn
 #xiaoyaliu/alist
-xhofe/alist
+#xhofe/alist
+rustdesk/rustdesk-server
