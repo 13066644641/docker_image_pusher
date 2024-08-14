@@ -9,4 +9,5 @@
 #k1483162508/musicn
 #xiaoyaliu/alist
 #xhofe/alist
-rustdesk/rustdesk-server
+#rustdesk/rustdesk-server
+cloudnas/clouddrive2
