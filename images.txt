@@ -10,4 +10,5 @@
 #xiaoyaliu/alist
 #xhofe/alist
 #rustdesk/rustdesk-server
-cloudnas/clouddrive2
+#cloudnas/clouddrive2
+gdy666/lucky
