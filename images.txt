@@ -11,4 +11,5 @@
 #xhofe/alist
 #rustdesk/rustdesk-server
 #cloudnas/clouddrive2
-gdy666/lucky
+#gdy666/lucky
+homeassistant/home-assistant
