@@ -12,4 +12,5 @@
 #rustdesk/rustdesk-server
 #cloudnas/clouddrive2
 #gdy666/lucky
-homeassistant/home-assistant
+#homeassistant/home-assistant
+delron/fastdfs
