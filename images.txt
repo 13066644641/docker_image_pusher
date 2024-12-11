@@ -14,4 +14,4 @@
 #gdy666/lucky
 #homeassistant/home-assistant
 #delron/fastdfs
-season/fastdfs
+onlyonelmm/fastdfs-arm64
