@@ -13,4 +13,5 @@
 #cloudnas/clouddrive2
 #gdy666/lucky
 #homeassistant/home-assistant
-delron/fastdfs
+#delron/fastdfs
+season/fastdfs
